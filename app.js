@@ -58,12 +58,12 @@ form.addEventListener('submit', (event) =>{
 
         If we want to rearrange the equation in the form 
 
-        ax + by = d
+        ax + by - d = 0
 
         We do the following:
 
         y = ${m}x + ${c}
-        y - ${m}x = ${c}
+        y + ${(-1)*m}x + ${(-1)*c} = 0
 
         `
     }
