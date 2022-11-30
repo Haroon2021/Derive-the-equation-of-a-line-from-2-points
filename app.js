@@ -56,6 +56,15 @@ form.addEventListener('submit', (event) =>{
 
         y = ${m}x + ${c}
 
+        If we want to rearrange the equation in the form 
+
+        ax + by = d
+
+        We do the following:
+
+        y = ${m}x + ${c}
+        y - ${m}x = ${c}
+
         `
     }
 }) 
