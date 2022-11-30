@@ -48,7 +48,7 @@ form.addEventListener('submit', (event) =>{
 
         Now inserting the first co ordinate pair (${x1},${y1}) we have:
 
-        ${y1} = ${m}${x1} + c
+        ${y1} = (${m})*(${x1}) + c
         ${y1} = ${m*x1} + c
         c = ${ y1 - (m*x1)}
         
